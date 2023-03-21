@@ -1,7 +1,1 @@
 # robotron-2000
-
-#### No projeto deste curso, chamado Robotrom 2000, nossa missão é salvar o planeta Terra de uma invasão alienígena! Ao final, você conquistará superpoderes sabendo como incrementar as habilidades do nosso robô utilizando JavaScript!
-
-Um projeto que mostra como manipular elementos na árvore do DOM, interagir com HTML, criar funções, operações lógicas.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" /> 
