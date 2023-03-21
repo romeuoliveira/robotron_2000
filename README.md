@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# robotron-2000
-=======
+
 # robotron-2000
 
 Curso de
@@ -13,5 +11,4 @@ Curso de
 Um projeto que mostra como manipular elementos na árvore do DOM, interagir com HTML, criar funções, operações lógicas.
 
 
-https://romeuoliveira.github.io/robotron_2000/
->>>>>>> 47396b52a2c36d2d8b7a9ff1d7cb75431c7433a0
+https://romeuoliveira.github.io/robotron_2000
