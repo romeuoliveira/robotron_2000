@@ -4,7 +4,7 @@
 Curso de
 ## JavaScript: manipulando o DOM pela ALURA
 
-#### No projeto deste curso, Robotron 2000, nossa missão é salvar o planeta Terra de uma invasão alienígena! Ao final, você conquistará superpoderes sabendo como incrementar as habilidades do nosso robô utilizando JavaScript!
+#### O projeto Robotron 2000! A Terra está sofrendo uma invasão alienígena e você precisa montar o seu robô para juntar as forças de defesa do planeta. Para montar o seu Robotron você precisa adicionar peças na engrenagem que compõe um robô e ver as estatísticas atualizadas dinamicamente, tudo isso com JavaScript.você conquistará superpoderes sabendo como incrementar as habilidades do nosso robô utilizando JavaScript!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30" />
 
